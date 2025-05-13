@@ -15,7 +15,7 @@ A powerful image processing application that provides various image classificati
 
 
 ## Trained Model
-[Trained Model]((https://drive.google.com/drive/folders/1uxCWBJalVoGmwLO-vnbkratjdaHIMxB8?usp=drive_link))
+[Trained Model]([link](https://drive.google.com/drive/folders/1uxCWBJalVoGmwLO-vnbkratjdaHIMxB8?usp=drive_link))
 
 
 ## Prerequisites
