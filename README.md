@@ -13,6 +13,11 @@ A powerful image processing application that provides various image classificati
 | 💾 Model Save  | Export model for later use                   |
 | 🖼️ Inference   | Predict custom cat/dog images                |
 
+
+## Trained Model
+[Trained Model]([link](https://drive.google.com/drive/folders/1uxCWBJalVoGmwLO-vnbkratjdaHIMxB8?usp=drive_link))
+
+
 ## Prerequisites
 - Python 3.7 or higher
 - pip (Python package installer)
